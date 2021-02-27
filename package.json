@@ -1,0 +1,15 @@
+{
+  "name": "chat_api",
+  "version": "1.0.0",
+  "description": "a chat like telegram",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Santiago Lopera",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
